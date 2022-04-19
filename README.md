@@ -18,7 +18,8 @@ To install this project, clone the code from github, install the dependencies wi
 
 ## Usage
 
-This video provides an example of how to use the application
+This link goes to a video that provides an example of how to use the application
+[link](https://drive.google.com/file/d/1mg8soiTr7uHCxAFV9mPlpjCm5RGnPx1c/view)
 
 ## Questions
 

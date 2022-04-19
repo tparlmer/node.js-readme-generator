@@ -1,11 +1,11 @@
 
-  # Title
+  # Test Project
   
   ## License
   MIT
   
   ## Description
-  Its a good project
+  This project is being used for test purposes.
   
   ## Table of Contents
   * [License](#license)
@@ -17,18 +17,18 @@
   * [Questions](#questions)
   
   ## Installation
-  Just do it
+  Clone the code from github repository.
   
   ## Usage
-  use it
+  Use this tool to generate high quality readme files for your projects
   
   ## Contributing
-  contribute
+  Use best practices for open source project contribution, i.e. forking the code.
   
   ## Tests
   undefined
   
   ## Questions
   Any Questions? Please reachout to me at undefined
-  In addition, you can view this project at tparlmer
+  In addition, you can view this project and others at https://github/tparlmer
 
